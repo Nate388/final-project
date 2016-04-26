@@ -1,3 +1,7 @@
-# Instructions for Running my Project
+# Instructions for Running my Program
 
-Replace this text with the instructions your classmates will need to run your project. If your code needs any libraries using `pip` or any other tool, those instructions should be here as well. A complete stranger should be able to follow these instructions, so don't be afraid to include videos, screenshots, diagrams, text, whatever helps!
+Hey there. My program is really simple to run and play. All you need to do to start playing is to open the program and start reading. 
+
+Follow the UPPERCASE WORDS when, "you need to make a choice." is presented to continue the game forward.
+
+You don't need to include any outside programs to run this. Have fun and I welcome your feedback.
