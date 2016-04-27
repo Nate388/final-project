@@ -1,4 +1,4 @@
-# Instructions for Running my Program
+ # Instructions for Running my Program
 
 Hey there. My program is really simple to run and play. All you need to do to start playing is to open the program and start reading. 
 

@@ -1,0 +1,16 @@
+The Program begins with a function, "endGame(go)". I wanted to print, "You loose, Game Over" whenever the player has lost. I used
+this function to help automate that process. This function is used in lines 14, 26, 41, 52, and 64.
+
+My next problem was figuring out how to make a game continue to move when a correct choice was made, and to loop all the back to the 
+beginning when a wrong choice was made. I remembered that a "continue" statement could send a loop back to the beginning, but a "break" 
+statement would require me to move out of the loop I wanted to return to. So using a "break" statement wasn't an option. 
+
+I used a, "while True:" statement to deal in only specific values. I had hoped to make a more broad array of options for a player to 
+choose from. But I could only manage a few. I used, "user = input()" to allow a player to type in thier own choices. In many lines for
+the options I used, "if user == " ":" satements to program which options would loop and which options could move the program forward.
+In the end, on line 61, I use a break statement to break the loop and end the game. 
+
+There were a lot a features I wanted to implement that would improve the quality of the game such as, "else" statments so that when a 
+player entered an answer that wasn't part of the choices, they would be sent back to the beginning of that choice. An actual end that
+closed the program when the player reached the end of the code. And just more options and detail in the narrative to enhance the 
+game.
